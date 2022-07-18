@@ -58,7 +58,7 @@ New relationships were created between the tables, and date was used as the rela
 
 ## Data Publishing
 The data was published from the PowerBI environment and a linkn was generated for others to view and interact with the dashboard.
-Link to my dashboard:https://bit.ly/ecommerce-dashboard
+Link to my dashboard: https://bit.ly/eccomerce-dashboard
 
 ## Feedback
 
