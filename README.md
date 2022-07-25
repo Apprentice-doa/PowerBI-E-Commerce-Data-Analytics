@@ -17,6 +17,8 @@ Introduction to Data Science :  [cognitveclass.ai](https://courses.cognitiveclas
 
 Data Science Tools : [cognitveclass.ai](https://courses.cognitiveclass.ai/certificates/b548573757be44ac8f00dd771ceba37c)
 
+Top 50% AI and ML with Python Regression Hackathon : [datasciencenigeria.org](https://cert.datasciencenigeria.ai/)
+
 ## Author
 
 - [@Apprentice-doa](https://github.com/Apprentice-doa)
@@ -55,6 +57,24 @@ New relationships were created between the tables, and date was used as the rela
 + Revenue by Category
 + Revenue by Gender
 + Date and Customer Login type filters were created as well.
+
+# Useful Insights
+## Revenue Trends
+Revenue trended down between Tuesday, December 17, 2013 and Monday, January 13, 2014 with a drop of $875,719.
++ Analytical Explanations:
+    + Male customers contributed immensely to the downward trend with a significant -64.32 % Revenue change (from $653,712 to $329, 361) as compared to Female customers  whose revenue contribution fell to -46.49 % ($606, 216 to $324, 360).
+    + The analysis also shows that the downward trend in revenue significantly came from the members, a category that accounted for a major revenue block of $1,472,887 out of the total $1,529,440 in revenue. This analysis shows that revenue from members fell to $635,409 (-58.86 %) compared to guests which contributed an initial $56,443 in revenue, and then dropped to $18, 312 (-67.62 %).
+    + Fashion, and Clothing also accounted for a major decrease in revenue by category of products, with Fashion taking a pro-gravity jump to -60.39 % with $376.767 loss and Clothing following suit with -51.85 % and $283, 628 loss in revenue.
+    + The revenue gotten customers in Los Angeles which contributed a large chunk in revenue saw a downward trend 0f -59.42 % of total revenue change ($1,353,564 to $549,323) compared to New york with revenue change of $175,876 to $104,394. 
+    
+The longest and consistent upward trend occured between Saturday, October 12, 2013 and Saturday, October 26, 2013 with a rise of $405,462.
+This upward trend saw a 65.82 % in revenue change from female customers with fashion products having a 37.29 % increase which amounts to $952,027 from $692,708, and wearables also having an amazing 106.81 % increase in revenue ($106,396 to $220,038).
++ A careful look at this analysis shows that within this time fame of upward trends in revenue, the revenue gotten from the male customers fell from $644, 043 to $563,094 indicating a -12.57% revenue growth.
++ Also, the revenue gotten from customers in Seattle, Washington, fell by -7% i.e $1,172,619 to %1,090,541 compared to Los Angeles and New York which had revenue growth of 221.28 % and 368.29 % respectively.
+## Other Insights
++ The web-based platform was the most used medium of purchase by customers contributing 81.09% of total revenue.
++ Fashion, and Clothing products were the major source of revenue accumulating a total of $197,319,259 in revenue.
++ Seattle was the most revenue-generating city raking in $140,456,574.
 
 ## Data Publishing
 The data was published from the PowerBI environment and a linkn was generated for others to view and interact with the dashboard.
