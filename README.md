@@ -17,7 +17,7 @@ Introduction to Data Science :  [cognitveclass.ai](https://courses.cognitiveclas
 
 Data Science Tools : [cognitveclass.ai](https://courses.cognitiveclass.ai/certificates/b548573757be44ac8f00dd771ceba37c)
 
-Top 50% AI and ML with Python Regression Hackathon : [datasciencenigeria.org](https://cert.datasciencenigeria.ai/)
+Top 50% AI and ML with Python Regression Hackathon : [datasciencenigeria.org](https://cert.datasciencenigeria.ai/) (ID for Authorization: DSNAI0009981)
 
 ## Author
 
