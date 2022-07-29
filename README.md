@@ -77,7 +77,7 @@ This upward trend saw a 65.82 % in revenue change from female customers with fas
 + Seattle was the most revenue-generating city raking in $140,456,574.
 
 ## Data Publishing
-The data was published from the PowerBI environment and a linkn was generated for others to view and interact with the dashboard.
+The data was published from the PowerBI environment and a link was generated for others to view and interact with the dashboard.
 Link to my dashboard: [E-Commerce Dashboard](https://bit.ly/eccomerce-dashboard)
 
 ## Feedback
