@@ -98,7 +98,7 @@ I'm a Data Scientist with experience in building end -to- end data analytics pro
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/doa_apprentice/)
 
 ## Ongoing Projects
-👩‍💻 I'm currently working on Logistic Regression modelling and Sentiment Analysis.
+👩‍💻 I'm currently working on Classification techniques and Sentiment Analysis.
 
 ## Current Learning path
 🧠 I'm currently learning end-to-end machine learning projects.
