@@ -61,7 +61,7 @@ New relationships were created between the tables, and date was used as the rela
 # Useful Insights
 ## Revenue Trends
 Revenue trended down between Tuesday, December 17, 2013 and Monday, January 13, 2014 with a drop of $875,719.
-![My Image](my-image.jpg)
+![Downward trend](https://github.com/Apprentice-doa/PowerBI-E-Commerce-Data-Analytics/blob/main/images/Downward%20Trend.png)
 + Analytical Explanations:
     + Male customers contributed immensely to the downward trend with a significant -64.32 % Revenue change (from $653,712 to $329, 361) as compared to Female customers  whose revenue contribution fell to -46.49 % ($606, 216 to $324, 360).
     + The analysis also shows that the downward trend in revenue significantly came from the members, a category that accounted for a major revenue block of $1,472,887 out of the total $1,529,440 in revenue. This analysis shows that revenue from members fell to $635,409 (-58.86 %) compared to guests which contributed an initial $56,443 in revenue, and then dropped to $18, 312 (-67.62 %).
