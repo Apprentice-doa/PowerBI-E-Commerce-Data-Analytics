@@ -11,18 +11,6 @@ These KPI's include:
 
 This project for the public with much recommendations for people aiming to get into the field of data analysis, and also business managers that want to see how an interactive dashboard can give insights into the activities of their businesses.
 
-## Badges
-
-Introduction to Data Science :  [cognitveclass.ai](https://courses.cognitiveclass.ai/certificates/365fbc9951984872b676b58bf6b750b0)
-
-Data Science Tools : [cognitveclass.ai](https://courses.cognitiveclass.ai/certificates/b548573757be44ac8f00dd771ceba37c)
-
-Top 50% AI and ML with Python Regression Hackathon : [datasciencenigeria.org](https://cert.datasciencenigeria.ai/) (ID for Authorization: DSNAI0009981)
-
-## Author
-
-- [@Apprentice-doa](https://github.com/Apprentice-doa)
-
 # Documentation
 
 ## Data Source 
@@ -96,37 +84,30 @@ Link to my dashboard: [E-Commerce Dashboard](https://bit.ly/eccomerce-dashboard)
 
 If you have any feedback, please reach out to me at: akdaniel0009@gmail.com
 
+## Author
+
+- [@Apprentice-doa](https://github.com/Apprentice-doa)
 
 ## 🚀 About Me
 I'm a Data Scientist with experience in building end -to- end data analytics projects and machine learning algorithms.
 
+## Badges
+
+Introduction to Data Science :  [cognitveclass.ai](https://courses.cognitiveclass.ai/certificates/365fbc9951984872b676b58bf6b750b0)
+
+Data Science Tools : [cognitveclass.ai](https://courses.cognitiveclass.ai/certificates/b548573757be44ac8f00dd771ceba37c)
+
+Top 50% AI and ML with Python Regression Hackathon : [datasciencenigeria.org](https://cert.datasciencenigeria.ai/) (ID for Authorization: DSNAI0009981)
 
 # Hi, I'm Daniel! 👋
-
 
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://bit.ly/daniel-akhabue)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/daniel-akhabue/)
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/doa_apprentice/)
 
-## Ongoing Projects
-👩‍💻 I'm currently working on Classification techniques and Sentiment Analysis.
-
-## Current Learning path
-🧠 I'm currently learning end-to-end machine learning projects.
-
-## Collaborations
-
-👯‍♀️ I'm looking to collaborate on Data Visualization and  machine learning projects.
-
-💬 Ask me about Features Engineering in Data analytics, and other data analytics development chain.
-
-⚡️ Fun fact: If you torture the data enough, it will confess to anything.
-
-
 ## 🛠 Skills
-Python, DAX, Power Query, Features engineering, object-oriented programming.
-
+Python (OOP), Data Analytics, Machine Learning, Features engineering.
 
 ## Related
 
