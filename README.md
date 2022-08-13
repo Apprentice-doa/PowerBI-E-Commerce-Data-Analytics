@@ -86,7 +86,7 @@ Revenue trended down between Tuesday, December 17, 2013 and Monday, January 13, 
 + Fashion, and Clothing products were the major source of revenue accumulating a total of $197,319,259 in revenue.
     +![category_analysis](https://github.com/Apprentice-doa/PowerBI-E-Commerce-Data-Analytics/blob/main/images/Category%20Analysis.png)
 + Seattle was the most revenue-generating city raking in $140,456,574.
-    +![city_analysis](https://github.com/Apprentice-doa/PowerBI-E-Commerce-Data-Analytics/blob/main/images/City_Analysis.png)
++ ![city_analysis](https://github.com/Apprentice-doa/PowerBI-E-Commerce-Data-Analytics/blob/main/images/City_Analysis.png)
 
 ## Data Publishing
 The data was published from the PowerBI environment and a link was generated for others to view and interact with the dashboard.
