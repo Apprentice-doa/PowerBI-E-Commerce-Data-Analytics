@@ -89,7 +89,7 @@ If you have any feedback, please reach out to me at: akdaniel0009@gmail.com
 - [@Apprentice-doa](https://github.com/Apprentice-doa)
 
 ## 🚀 About Me
-I'm a Data Scientist with experience in building end -to- end data analytics projects and machine learning algorithms.
+I'm a Data Scientist with experience in building end -to- end data analytics projects and machine learning models.
 
 ## Badges
 
