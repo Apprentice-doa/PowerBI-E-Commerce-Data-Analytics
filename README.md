@@ -78,7 +78,7 @@ Revenue trended down between Tuesday, December 17, 2013 and Monday, January 13, 
 
 ## Data Publishing
 The data was published from the PowerBI environment and a link was generated for others to view and interact with the dashboard.
-Link to my dashboard: [E-Commerce Dashboard](https://bit.ly/eccomerce-dashboard)
+Link to my dashboard: [E-Commerce Dashboard](https://bit.ly/ecommerce_intelligence)
 
 ## Feedback
 
