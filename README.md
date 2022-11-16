@@ -113,5 +113,5 @@ Python (OOP), Data Analytics, Machine Learning, Features engineering.
 
 Here are some related projects
 
-[Awesome README](https://github.com/Apprentice-doa/PowerBI-E-Commerce-Data-Analytics/blob/main/README.md)
+[Awesome README](https://github.com/Apprentice-doa/NPFL-Seasonal-Data-Analytics/blob/main/README.md)
 
