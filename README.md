@@ -1,5 +1,7 @@
 # E-Commerce Data Analysis and Visualization
 
+![dashboard](https://github.com/Apprentice-doa/PowerBI-E-Commerce-Data-Analytics/blob/main/E-Commerce%20Dashboard%20Analysis.png)
+
 This project is for getting in-depth analysis on how certian KPI'S (key performance indictators) contribute to the growth of an online sales market. 
 These KPI's include:
 + Purchase time
@@ -76,8 +78,8 @@ Revenue trended down between Tuesday, December 17, 2013 and Monday, January 13, 
 + Seattle was the most revenue-generating city raking in $140,456,574.
 + ![city_analysis](https://github.com/Apprentice-doa/PowerBI-E-Commerce-Data-Analytics/blob/main/images/City_Analysis.png)
 
-## Data Publishing
-The data was published from the PowerBI environment and a link was generated for others to view and interact with the dashboard.
+## Dashboard Publishing
+The dashboard was published from the PowerBI environment and a link was generated for others to view and interact with the dashboard.
 Link to my dashboard: [E-Commerce Dashboard](https://bit.ly/ecommerce_intelligence)
 
 ## Feedback
