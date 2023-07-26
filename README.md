@@ -25,7 +25,7 @@ The dataset was gotten in spreadsheet(xlsx) format and imported into PowerBI.
 ## Data Transformation
 Before the dataset was loaded into PowerBI, it was first transformed.
 + The columns that were not needed for the analysis were removed [Transaction Id, Customer_ Id, Year_Month, Time].
-+ The columns were converted to the right datatypes especiall the date column which was converted to the date datatype.
++ The columns were converted to the right datatypes especially the date column which was converted to the date datatype.
 + The value of Transaction_result was changed as 0 = Transaction failed and 1 = Transaction Successful.
 + The value of Transaction Start was changed to Transaction start.
 + The City['Los Angles'] was changed to City['Los Angeles'] for effective representation of the city on a map chart.
